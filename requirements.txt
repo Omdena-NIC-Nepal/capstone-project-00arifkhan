@@ -1,7 +1,7 @@
 # Core UI and Data Libraries
 streamlit>=1.30
 pandas>=1.5
-numpy==1.24.4
+numpy==1.25.0
 scikit-learn>=1.2
 matplotlib>=3.5
 seaborn>=0.12
